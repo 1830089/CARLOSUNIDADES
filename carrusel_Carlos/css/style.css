@@ -1,0 +1,38 @@
+body{
+	background-color: black;
+}
+/* #362D39 */
+.contenido{
+	margin: auto;
+	width: 70%;
+	height: 600px;
+}
+
+.botones{
+	width: 100%;
+	padding-left: 40%;
+	padding-top: 20px;
+}
+
+#foto{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+	border-radius: 10%;
+	padding-top: 50px;
+}
+
+.boton{
+	background-image: linear-gradient(to left, blue, red);
+	border-radius: 15px;
+	color: white;
+	text-decoration: none;
+	border: 2px solid black;
+	width: 140px;
+	height: 30px;
+}
+
+.rep:hover{
+    background-color: #171B26;
+}

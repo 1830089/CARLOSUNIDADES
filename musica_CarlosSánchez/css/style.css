@@ -1,0 +1,35 @@
+body{
+	width: 80%;
+	background-color: #F5006A;
+	margin: auto;
+}
+
+
+h2, h3{
+	font-size: 4vw;
+	color: #F5006A;
+}
+main{
+	color: #ED97B4;
+	width: 100%;
+}
+
+.cont{
+	background-color: black;
+	padding: 20px 50px;
+	font-family: 'Yusei Magic', sans-serif;
+	text-align: justify;
+}
+h1{
+	color: #F5006A;
+	text-align: center;
+	font-size: 5vw;
+}
+.art{
+	font-size: 3vw;
+	color: #F5006A;
+	text-align: center;
+
+
+
+

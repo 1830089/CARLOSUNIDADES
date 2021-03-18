@@ -1,0 +1,39 @@
+table {
+    width: 100%;
+    border: 3px solid #000;
+ }
+ th, td {
+    width: 25%;
+    text-align: left;
+    vertical-align: top;
+    border: 1px solid #000;
+    border-collapse: collapse;
+    padding: 0.3em;
+    caption-side: bottom;
+ }
+ caption {
+    padding: 0.3em;
+ }
+ a{
+     font-family: Arial;
+     color: white;
+     background-color: black;
+ }
+ #boton{
+    text-align: center;
+ }
+ #formulario{
+     text-align: center;
+ }
+ h1{
+     font-family: Arial;
+     color: white;
+ }
+ form{
+     font-family: Arial;
+     
+ }
+ body{
+     text-align: center;
+     background-color: red;
+ }

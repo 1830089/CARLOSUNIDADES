@@ -1,0 +1,26 @@
+body{
+	width: 80%;
+	background-color: #C8040E;
+	margin: auto;
+}
+
+.conte{
+	background-color: black;
+	padding: 20px 50px;
+	font-size: 2vw;
+	font-family: 'Yusei Magic', sans-serif;
+}
+
+h1{
+	color: #C8040E;
+	text-align: center;
+}
+
+label{
+	color: white;
+}
+div{
+	color: white;
+}
+
+

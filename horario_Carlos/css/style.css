@@ -1,0 +1,46 @@
+/*th:hover .pro{
+	background-color: black;
+	color: white;
+}*/
+div{
+	font-family: Arial;
+}
+td{
+	text-align: center;
+
+}
+
+.si{
+	padding: 25px;
+}
+
+.pro{
+	background-color: #B66D0D;
+	color: black;
+
+}
+
+.ir{
+	background-color: #02C3BD;
+}
+
+.lya{
+	background-color: #FC2F00;
+}
+
+.ig{
+	background-color: #23CE6B;
+}
+
+.lead{
+	background-color: #EA3788;
+}
+
+.fpti{
+	background-color: #C2E812;
+}
+
+.re{
+	background-color: #4B244A;
+}
+

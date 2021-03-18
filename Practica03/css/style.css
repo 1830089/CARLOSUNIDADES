@@ -1,0 +1,174 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background-image: url("../images/background_buildings.png");
+    font-family: 'Yusei Magic', sans-serif;
+    
+}
+.centro{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: auto;
+}
+.encabezado{
+    background-color: black;
+    width: auto;
+    height: 25%;
+    display: flex;
+    color: white;
+}
+.pie-de-pagina{
+    background-color: #2A2D25;
+    display: flex;
+}
+.cuerpo{
+    background-color: white;
+    margin-top: 0px;
+    display: flex;
+    
+}
+ main{
+     width: 70%;
+     padding: 5%;
+ }
+
+ aside{
+     width: 30%;
+ }
+
+nav{
+    background: linear-gradient(to right, orange, white);
+    margin-top:auto;
+    height: 20%;
+}
+
+.mosaico-imagene img{
+    width: 30%;
+    height: 40%;
+}
+
+
+.mosaico-imagene{
+    width: 50%;
+    margin-left: 15%;
+}
+
+.encabezado p{
+    color: white;
+    text-align: left;
+    margin-left: 30%;
+    margin-top: 2%;
+}
+
+.encabezado img{
+    text-align: left;
+    margin-left: 25%;
+    margin-top: 25%;
+    margin-bottom: 25%;
+}
+
+.pie-de-pagina p{
+    color: white;
+}
+
+.pie-de-pagina a{
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    margin-left: 5%;
+    font-size: 75%;
+}
+
+.imagen-superior{
+    width: 100%;
+    overflow: hidden;
+}
+
+nav a{
+    margin-left: 5%;
+    text-decoration: none;
+    color: black;
+}
+
+.navegacion{
+    height: 10%;
+}
+
+.iphone{
+    width: 90%;
+    height: 50%;
+    margin-right: 5%;
+}
+
+h3{
+    margin-top: 5%;
+}
+.hotel{
+    display:flex;
+}
+
+.izquierda{
+    width: 60%;
+    display: flex;
+    margin-top: 2%;
+}
+
+.izquierda img{
+width: 30%;
+height: 35%;
+
+margin-left: 5%;
+margin-right: 5%;
+}
+
+
+.derecha{
+    width: 40%;
+    margin-top: 2%;
+}
+
+
+/*--- Artists--*/
+
+.perfiles{
+display: inline;
+}
+
+.perfiles h4{
+    margin-top: 5%;
+}
+.perfiles img{
+    width: 10%;
+    height: 12%;
+    display: flex;
+}
+
+.mosaico p{
+    margin-bottom: 5%;
+}
+.mosaico{
+    margin-top: 15%;
+    margin-bottom: 20%;
+}
+ .mosaico img{
+
+     width: 25%;
+ }
+
+ article{
+     display: flex;
+ }
+
+ /*---Schedule--*/
+ .perfiles h4{
+     text-align: right;
+ }
+
+ /*---Register--*/
+ .fff{
+    display: flex;
+ }
+ 
